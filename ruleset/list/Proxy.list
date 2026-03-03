@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,certimate.me
 DOMAIN-SUFFIX,figma.com
 DOMAIN-SUFFIX,jenkins.io
+DOMAIN-SUFFIX,docker.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
