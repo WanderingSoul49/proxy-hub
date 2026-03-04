@@ -2,6 +2,7 @@
 DOMAIN,xn--o-5gn
 DOMAIN,a-generic.be-a.dev
 DOMAIN,challenges.cloudflare.com
+DOMAIN,dl.google.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,941878.xyz
