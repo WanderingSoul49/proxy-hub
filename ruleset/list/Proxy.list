@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,jenkins.io
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,ghostty.org
+DOMAIN-SUFFIX,vmiss.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
