@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,ghostty.org
 DOMAIN-SUFFIX,vmiss.com
+DOMAIN-SUFFIX,notion.site
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
