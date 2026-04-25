@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,vmiss.com
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,dbeaver.com
 DOMAIN-SUFFIX,webshare.io
+DOMAIN-SUFFIX,greasyfork.org
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
