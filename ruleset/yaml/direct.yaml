@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,nn.ci
   - DOMAIN-SUFFIX,oaipro.com
   - DOMAIN-SUFFIX,crond.dev
+  - DOMAIN-SUFFIX,labuladong.online
 
   # 国内银行
   - DOMAIN-SUFFIX,gdrbb.com
