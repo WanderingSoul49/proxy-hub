@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,diabrowser.engineering
 DOMAIN-SUFFIX,diabrowser.com
 
-# NAME: Gemini
+# NAME: Gemini & Antigravity
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,apis.google.com
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
+DOMAIN-KEYWORD,antigravity
 
 # Gork
 DOMAIN-SUFFIX,grokipedia.com
