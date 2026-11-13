@@ -83,3 +83,15 @@ DOMAIN-SUFFIX,appstoreprice.org
 DOMAIN-SUFFIX,hxi.me
 DOMAIN-SUFFIX,oyunfor.com
 DOMAIN-SUFFIX,h-e.top
+
+# PT 站点
+DOMAIN,www.pttime.org
+DOMAIN,pt.btschool.club
+DOMAIN,sunnypt.top
+DOMAIN,www.haidan.video
+DOMAIN,rousi.zip
+# 馒头tracker直连已在Direct中配置，剩下的全部代理
+# DOMAIN-SUFFIX,m-team.cc
+# DOMAIN-SUFFIX,m-team.io
+# DOMAIN-SUFFIX,manfuz.co
+# DOMAIN-SUFFIX,halomt.com
